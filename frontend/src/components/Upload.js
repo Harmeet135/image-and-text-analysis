@@ -68,7 +68,7 @@ const ImageUpload = () => {
   return (
     <>
       <div className="mx-auto p-4">
-        <h1 className="text-white my-10 text-center text-4xl font-bold">
+        <h1 className="text-white mb-10 mt-5 text-center text-4xl font-bold">
           Image to Text Translator
         </h1>
         <div className="flex lg:flex-row flex-col">
